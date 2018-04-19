@@ -15,7 +15,7 @@ html,body{
 body{
     overflow-x: hidden;
 }
-#_nuxt ,#_layout,#sign-template{
+#_nuxt ,#_layout,#sign-template,#default-template{
     height: 100%;
 }
 ul,ol,di{
