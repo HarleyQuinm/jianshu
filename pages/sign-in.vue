@@ -36,29 +36,29 @@
                         <span >记住我</span>
                     </div>
                     <nuxt-link class="help" to="/">登录遇到任何问题?</nuxt-link>
-                    <button type="button" class="btn btn-primary" >登录</button>
+                    <button type="button"  >登录</button>
                 </form>
             </div>
             <!-- 第三方登录 -->
             <div class="more-sign">
                 <p class="">社交账号登录</p>
                 <ul>
-                    <li>
+                    <li class="weibo">
                         <nuxt-link to="/">
                             <i class="fa fa-weibo"></i>
                         </nuxt-link>
                     </li>
-                    <li>
+                    <li class="weixin">
                         <nuxt-link to="/">
                             <i class="fa fa-weixin"></i>
                         </nuxt-link>
                     </li>
-                    <li>
+                    <li class="qq">
                         <nuxt-link to="/">
                             <i class="fa fa-qq"></i>
                         </nuxt-link>
                     </li>
-                    <li>
+                    <li clas>
                         <nuxt-link to="/">
                             其他
                         </nuxt-link>
