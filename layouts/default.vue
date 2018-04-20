@@ -18,7 +18,7 @@ export default {
   body{
     padding-top: 56px;
     min-width: 768px;
-    font-size: 14px;
+    font-size: 15px;
   }
 </style>
 

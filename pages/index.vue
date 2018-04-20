@@ -1,7 +1,6 @@
 <template>
     <div>
         <my-header></my-header>
-        我的主页内容部分
     </div>
 </template>
 <script>
