@@ -193,6 +193,7 @@ nav {
   position: relative;
   margin-bottom: 56px;
   border-bottom: 1px solid #f0f0f0;
+  background: white;
 }
 navbar::before {
   content: "";
@@ -266,6 +267,7 @@ nav .user .avatar img {
 }
 
 nav .user .drop-menu {
+  background: white;
   position: absolute;
   left: 0;
   top: 56px;
